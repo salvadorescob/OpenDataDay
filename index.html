@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Inicio
 ---
 
 </div>
@@ -13,7 +13,7 @@ title: Home
 <section class="intro">
     <div class="wrapintro">
         <h1>Open Data Day León 2019</h1>
-        <h2 class="lead">No te quedes fuera, participa en el evento que conmemora al <span style="color:#675bff;">Día Mundial de Datos Abiertos</span> en León. Aprende cómo los <span style="color:red;">datos</span> contribuyen al cambio en el mundo.</h2>
+        <h2 class="lead">No te quedes fuera, participa este <span style="color:red;">2 de marzo de 2019</span> en el evento que conmemora al <span style="color:#675bff;">Día Mundial de Datos Abiertos</span> en León. Aprende cómo los <span style="color:red;">datos</span> contribuyen al cambio en el mundo.</h2>
         <a href="#" class="btn">¡Regístrate!</a>
     </div>
 </section>
@@ -21,79 +21,22 @@ title: Home
 <!-- We reopen main-content and container -->
 
 <div class="container">
-
     <div class="main-content">
 
+      <div class="container">
+          <div class="row justify-content-center">
+              <div class="col-md-10">
+                  <p>
+                    El <strong>Open Data Day León 2019</strong>, es una iniciativa de la Dirección General de Innovación del Municipio de León, a través de Lab León, para celebrar el día mundial de datos abiertos aprendiendo, colaborando y creando con datos. Es la oportunidad perfecta para formar parte de la comunidad activa que contribuye al cambio a través de los datos abiertos. Esta celebración se llevará a cabo el día <strong>sábado 2 de marzo de 2019</strong> a nivel mundial, siendo que León, Guanajuato, será un municipio sede del evento.
+                  </p>
+                  <p>
+                    El registro estará abierto del <strong>XX de XXXX</strong>  hasta el <strong>XX de XXXX de 2019</strong>, una vez registrado(a), se te hará llegar un correo que deberás confirmar.
+                  </p>
+                  <p>
+                    No pierdas tu oportunidad y regístrate, tenemos cupo limitado: &nbsp;
+                    <a class="btn btn-primary btn-sm" href="#">¡Regístrate!</a>
+                  </p>
 
-        <!-- Featured
-        ================================================== -->
-        <section class="featured-posts">
-
-            <div class="section-title">
-                <h2><span>Featured</span></h2>
-            </div>
-
-            <div class="row listfeaturedtag">
-
-            {% for post in site.posts %}
-
-                {% if post.featured == true %}
-
-                    {% include featuredbox.html %}
-
-                {% endif %}
-
-            {% endfor %}
-
-            </div>
-
-        </section>
-
-        <!-- Posts Index
-        ================================================== -->
-         {% if paginator.previous_page %}
-                {% if paginator.previous_page > 0 %}
-                 <div id="jumptopageof"></div>
-        {% endif %}
-        {% endif %}
-
-        <section class="recent-posts row">
-
-            <div class="col-sm-4">
-                {% include sidebar.html %}
-            </div>
-
-            <div class="col-sm-8">
-
-                <div class="section-title">
-                    <h2><span>All Stories</span></h2>
-                </div>
-
-                <div class="masonrygrid row listrecent">
-
-                    {% for post in paginator.posts %}
-
-                    {% unless post.featured == true %}
-
-                        {% include postbox.html %}
-
-                    {% endunless %}
-
-                    {% endfor %}
-
-                </div>
-
-                <!-- Pagination -->
-                <div class="bottompagination">
-
-                    <span class="navigation" role="navigation">
-
-                        {% include pagination.html %}
-
-                    </span>
-
-                </div>
-
-            </div>
-
-        </section>
+              </div>
+          </div>
+      </div>
