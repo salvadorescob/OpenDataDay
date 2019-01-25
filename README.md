@@ -6,15 +6,15 @@ El registro estará abierto del **XX de XXXX** hasta el **XX de XXXX de 2019**, 
 
 No pierdas tu oportunidad y regístrate, tenemos cupo limitado: <a class="btn btn-primary btn-sm" href="#">¡Regístrate!</a>
 
-#### ¿QUÉ ES EL DÍA DE DATOS ABIERTOS?
+### ¿QUÉ ES EL DÍA DE DATOS ABIERTOS?
 *Open Data Day* es una celebración anual de datos abiertos en todo el mundo. Por novena vez en la historia, grupos de todo el mundo crearán eventos locales el día en que usarán datos abiertos en sus comunidades. Es una oportunidad para mostrar los beneficios de los datos abiertos y fomentar la adopción de políticas de datos abiertos en el gobierno, las empresas y la sociedad civil.
 
 Todas las salidas están abiertas para que todos las puedan usar y reutilizar.
 
-#### DÍA DE DATOS ABIERTOS 2019
-Para el *Open Data Day* 2019, queremos que la comunidad siga creciendo. Daremos mini subvenciones en áreas clave que creemos que los datos abiertos pueden resolver. 
+### DÍA DE DATOS ABIERTOS 2019
+Para el *Open Data Day* 2019, queremos que la comunidad siga creciendo. Daremos mini subvenciones en áreas clave que creemos que los datos abiertos pueden resolver.
 
-#### ¿PARA QUIEN ES ESTO? ¡TODO EL MUNDO!
+### ¿PARA QUIEN ES ESTO? ¡TODO EL MUNDO!
 Si tienes una idea para usar datos abiertos, quieres encontrar un proyecto interesante para contribuir, aprender sobre cómo visualizar o analizar datos o simplemente quieres ver lo que está sucediendo, ¡entonces ven a participar! La participación es un valor central de *Open Data Day*, todos son libres de expresar sus opiniones de manera constructiva. Sin importar su conjunto de habilidades o intereses, estamos alentando a fomentar oportunidades para que usted aprenda y ayude a crecer a la comunidad global de datos abiertos.
 
 
