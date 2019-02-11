@@ -5,7 +5,7 @@ title: Acerca de
 
 El **Open Data Day León 2019**, es una iniciativa de la Dirección General de Innovación del Municipio de León, a través de Lab León, para celebrar el día mundial de datos abiertos aprendiendo, colaborando y creando con datos. Es la oportunidad perfecta para formar parte de la comunidad activa que contribuye al cambio a través de los datos abiertos. Esta celebración se llevará a cabo el día **sábado 2 de marzo de 2019** a nivel mundial, siendo que León, Guanajuato, será un municipio sede del evento.
 
-El registro estará abierto del **XX de XXXX** hasta el **XX de XXXX de 2019**, una vez registrado(a), se te hará llegar un correo que deberás confirmar.
+El registro estará abierto del **13 de febrero al 2 de marzo de 2019** (hay cupo limitado), una vez registrado(a), se te hará llegar un correo en el que deberás confirmar tu asistencia.
 
 No pierdas tu oportunidad y regístrate, tenemos cupo limitado: <a class="btn btn-primary btn-sm" href="#">¡Regístrate!</a>
 
