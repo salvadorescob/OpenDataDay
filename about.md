@@ -7,7 +7,7 @@ El **Open Data Day León 2019**, es una iniciativa de la Dirección General de I
 
 El registro estará abierto del **13 de febrero al 2 de marzo de 2019** (hay cupo limitado), una vez registrado(a), se te hará llegar un correo en el que deberás confirmar tu asistencia.
 
-No pierdas tu oportunidad y regístrate, tenemos cupo limitado: <a class="btn btn-primary btn-sm" href="#">¡Regístrate!</a>
+No pierdas tu oportunidad y regístrate, tenemos cupo limitado: <a class="btn btn-primary btn-sm" href="https://goo.gl/forms/kiaQrRI1EN8dWQFp1" target="_blank">¡Regístrate!</a>
 
 #### ¿QUÉ ES EL DÍA DE DATOS ABIERTOS?
 *Open Data Day* es una celebración anual de datos abiertos en todo el mundo. Por novena vez en la historia, grupos de todo el mundo crearán eventos locales el día en que usarán datos abiertos en sus comunidades. Es una oportunidad para mostrar los beneficios de los datos abiertos y fomentar la adopción de políticas de datos abiertos en el gobierno, las empresas y la sociedad civil.
