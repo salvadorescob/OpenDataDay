@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+<Row>
+<Cell><Data ss:Type="String">FECHA</Data></Cell>
+<Cell><Data ss:Type="String">TEMP. M&Aacute;X. (&deg;c)</Data></Cell>
+<Cell><Data ss:Type="String">TEMP. M&Iacute;N. (&deg;c)</Data></Cell>
+<Cell><Data ss:Type="String">PREC. ACUM. (mm)</Data></Cell>
+<Cell><Data ss:Type="String">INT. M&Aacute;X. (mm/h)</Data></Cell>
+<Cell><Data ss:Type="String">PREC. ANUAL (mm)</Data></Cell>
+<Cell><Data ss:Type="String">HUM. REL. M&Aacute;X. (%)</Data></Cell>
+<Cell><Data ss:Type="String">HUM. REL. M&Iacute;N. (%)</Data></Cell>
+<Cell><Data ss:Type="String">RAD. SOLAR M&Aacute;X. (W/m2)</Data></Cell>
+<Cell><Data ss:Type="String">PRES. BAR. M&Aacute;X. (hPa)</Data></Cell>
+<Cell><Data ss:Type="String">PRES. BAR. M&Iacute;N. (hPa)</Data></Cell>
+<Cell><Data ss:Type="String">VEL VIENTO M&Aacute;X (m/s)</Data></Cell>
+<Cell><Data ss:Type="String">VEL VIENTO M&Iacute;N (m/s)</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/01/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">26.27</Data></Cell>
+<Cell><Data ss:Type="String">1.02</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">66.68</Data></Cell>
+<Cell><Data ss:Type="String">3.66</Data></Cell>
+<Cell><Data ss:Type="String">978.88</Data></Cell>
+<Cell><Data ss:Type="String">889.00</Data></Cell>
+<Cell><Data ss:Type="String">874.14</Data></Cell>
+<Cell><Data ss:Type="String">8.54</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/02/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">29.28</Data></Cell>
+<Cell><Data ss:Type="String">7.92</Data></Cell>
+<Cell><Data ss:Type="String">17</Data></Cell>
+<Cell><Data ss:Type="String">10</Data></Cell>
+<Cell><Data ss:Type="String">17</Data></Cell>
+<Cell><Data ss:Type="String">87.49</Data></Cell>
+<Cell><Data ss:Type="String">3.58</Data></Cell>
+<Cell><Data ss:Type="String">1345.18</Data></Cell>
+<Cell><Data ss:Type="String">885.67</Data></Cell>
+<Cell><Data ss:Type="String">874.69</Data></Cell>
+<Cell><Data ss:Type="String">8.31</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/03/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">32.73</Data></Cell>
+<Cell><Data ss:Type="String">10.21</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">17</Data></Cell>
+<Cell><Data ss:Type="String">46.72</Data></Cell>
+<Cell><Data ss:Type="String">3.12</Data></Cell>
+<Cell><Data ss:Type="String">1112.45</Data></Cell>
+<Cell><Data ss:Type="String">883.65</Data></Cell>
+<Cell><Data ss:Type="String">872.31</Data></Cell>
+<Cell><Data ss:Type="String">8.77</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/04/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">33.45</Data></Cell>
+<Cell><Data ss:Type="String">10.85</Data></Cell>
+<Cell><Data ss:Type="String">27</Data></Cell>
+<Cell><Data ss:Type="String">34</Data></Cell>
+<Cell><Data ss:Type="String">44</Data></Cell>
+<Cell><Data ss:Type="String">83.25</Data></Cell>
+<Cell><Data ss:Type="String">3.12</Data></Cell>
+<Cell><Data ss:Type="String">1169.29</Data></Cell>
+<Cell><Data ss:Type="String">884.33</Data></Cell>
+<Cell><Data ss:Type="String">872.41</Data></Cell>
+<Cell><Data ss:Type="String">8.84</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/05/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">37.44</Data></Cell>
+<Cell><Data ss:Type="String">12.43</Data></Cell>
+<Cell><Data ss:Type="String">25</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">69</Data></Cell>
+<Cell><Data ss:Type="String">80.45</Data></Cell>
+<Cell><Data ss:Type="String">2.86</Data></Cell>
+<Cell><Data ss:Type="String">1332.97</Data></Cell>
+<Cell><Data ss:Type="String">883.96</Data></Cell>
+<Cell><Data ss:Type="String">871.87</Data></Cell>
+<Cell><Data ss:Type="String">9.91</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/06/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">34.40</Data></Cell>
+<Cell><Data ss:Type="String">12.04</Data></Cell>
+<Cell><Data ss:Type="String">311</Data></Cell>
+<Cell><Data ss:Type="String">40</Data></Cell>
+<Cell><Data ss:Type="String">380</Data></Cell>
+<Cell><Data ss:Type="String">88.03</Data></Cell>
+<Cell><Data ss:Type="String">3.00</Data></Cell>
+<Cell><Data ss:Type="String">1396.70</Data></Cell>
+<Cell><Data ss:Type="String">882.79</Data></Cell>
+<Cell><Data ss:Type="String">872.51</Data></Cell>
+<Cell><Data ss:Type="String">10.07</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/07/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">31.21</Data></Cell>
+<Cell><Data ss:Type="String">11.87</Data></Cell>
+<Cell><Data ss:Type="String">95</Data></Cell>
+<Cell><Data ss:Type="String">22</Data></Cell>
+<Cell><Data ss:Type="String">475</Data></Cell>
+<Cell><Data ss:Type="String">80.56</Data></Cell>
+<Cell><Data ss:Type="String">3.11</Data></Cell>
+<Cell><Data ss:Type="String">1305.92</Data></Cell>
+<Cell><Data ss:Type="String">886.37</Data></Cell>
+<Cell><Data ss:Type="String">876.32</Data></Cell>
+<Cell><Data ss:Type="String">9.76</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/08/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">30.19</Data></Cell>
+<Cell><Data ss:Type="String">12.15</Data></Cell>
+<Cell><Data ss:Type="String">141</Data></Cell>
+<Cell><Data ss:Type="String">22</Data></Cell>
+<Cell><Data ss:Type="String">616</Data></Cell>
+<Cell><Data ss:Type="String">79.70</Data></Cell>
+<Cell><Data ss:Type="String">3.36</Data></Cell>
+<Cell><Data ss:Type="String">1370.94</Data></Cell>
+<Cell><Data ss:Type="String">885.26</Data></Cell>
+<Cell><Data ss:Type="String">875.20</Data></Cell>
+<Cell><Data ss:Type="String">8.69</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/09/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">29.27</Data></Cell>
+<Cell><Data ss:Type="String">13.06</Data></Cell>
+<Cell><Data ss:Type="String">255</Data></Cell>
+<Cell><Data ss:Type="String">28</Data></Cell>
+<Cell><Data ss:Type="String">871</Data></Cell>
+<Cell><Data ss:Type="String">84.51</Data></Cell>
+<Cell><Data ss:Type="String">3.72</Data></Cell>
+<Cell><Data ss:Type="String">1278.21</Data></Cell>
+<Cell><Data ss:Type="String">882.78</Data></Cell>
+<Cell><Data ss:Type="String">873.81</Data></Cell>
+<Cell><Data ss:Type="String">7.31</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/10/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">29.39</Data></Cell>
+<Cell><Data ss:Type="String">10.13</Data></Cell>
+<Cell><Data ss:Type="String">37</Data></Cell>
+<Cell><Data ss:Type="String">20</Data></Cell>
+<Cell><Data ss:Type="String">908</Data></Cell>
+<Cell><Data ss:Type="String">81.38</Data></Cell>
+<Cell><Data ss:Type="String">3.73</Data></Cell>
+<Cell><Data ss:Type="String">1316.12</Data></Cell>
+<Cell><Data ss:Type="String">883.84</Data></Cell>
+<Cell><Data ss:Type="String">872.34</Data></Cell>
+<Cell><Data ss:Type="String">9.61</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/11/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">29.62</Data></Cell>
+<Cell><Data ss:Type="String">3.17</Data></Cell>
+<Cell><Data ss:Type="String">43</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">951</Data></Cell>
+<Cell><Data ss:Type="String">88.28</Data></Cell>
+<Cell><Data ss:Type="String">3.35</Data></Cell>
+<Cell><Data ss:Type="String">1046.15</Data></Cell>
+<Cell><Data ss:Type="String">886.50</Data></Cell>
+<Cell><Data ss:Type="String">873.19</Data></Cell>
+<Cell><Data ss:Type="String">6.55</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/12/2018 00:00</Data></Cell>
+<Cell><Data ss:Type="String">25.82</Data></Cell>
+<Cell><Data ss:Type="String">0.49</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">951</Data></Cell>
+<Cell><Data ss:Type="String">74.54</Data></Cell>
+<Cell><Data ss:Type="String">3.64</Data></Cell>
+<Cell><Data ss:Type="String">896.52</Data></Cell>
+<Cell><Data ss:Type="String">889.07</Data></Cell>
+<Cell><Data ss:Type="String">872.75</Data></Cell>
+<Cell><Data ss:Type="String">6.93</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+
+<Row>
+<Cell><Data ss:Type="String">01/01/2019 00:00</Data></Cell>
+<Cell><Data ss:Type="String">28.68</Data></Cell>
+<Cell><Data ss:Type="String">4.86</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">74.95</Data></Cell>
+<Cell><Data ss:Type="String">3.46</Data></Cell>
+<Cell><Data ss:Type="String">882.36</Data></Cell>
+<Cell><Data ss:Type="String">888.09</Data></Cell>
+<Cell><Data ss:Type="String">872.81</Data></Cell>
+<Cell><Data ss:Type="String">7.31</Data></Cell>
+<Cell><Data ss:Type="String">0.00</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
